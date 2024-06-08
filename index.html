@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Grid Layout</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="slider">
+        <label for="gridSize">Grid Size: </label>
+        <input type="range" id="gridSize" name="gridSize" min="1" max="100" value="16">
+        <span id="gridSizeValue">16</span>
+    </div>
+    <div class="container"></div>
+    <div class="controls">
+        <button id="clear">Clear</button>
+        <button id="classic-mode">Classic Mode</button>
+        <button id="rainbow-mode">Rainbow Mode</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
