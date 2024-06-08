@@ -1,4 +1,4 @@
-# [etch-a-sketch](https://chetpls.github.io/etch-a-sketch/)
+# [Etch-A-Sketch](https://chetpls.github.io/etch-a-sketch/)
 
 An interactive grid-based drawing application inspired by the classic Etch A Sketch toy. Users can draw on the grid by hovering over the tiles, and switch between Classic and Rainbow coloring modes.
 
